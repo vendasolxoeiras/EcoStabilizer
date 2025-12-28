@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EcoStabilizer — Poupança Inteligente de Energia</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f7f7f7;
+            color: #222;
+            line-height: 1.6;
+        }
+
+        header {
+            background: #0a5ad4;
+            color: white;
+            padding: 80px 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            font-size: 42px;
+            margin-bottom: 10px;
+        }
+
+        header p {
+            font-size: 20px;
+            max-width: 700px;
+            margin: 0 auto;
+            opacity: 0.9;
+        }
+
+        section {
+            max-width: 900px;
+            margin: 60px auto;
+            padding: 0 20px;
+        }
+
+        h2 {
+            font-size: 30px;
+            margin-bottom: 20px;
+        }
+
+        .benefits, .reviews {
+            display: grid;
+            gap: 30px;
+        }
+
+        .card {
+            background: white;
+            padding: 25px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+
+        .cta {
+            text-align: center;
+            margin: 60px 0;
+        }
+
+        .cta button {
+            background: #0a5ad4;
+            color: white;
+            border: none;
+            padding: 18px 40px;
+            font-size: 20px;
+            border-radius: 6px;
+            cursor: pointer;
+        }
+
+        footer {
+            text-align: center;
+            padding: 40px;
+            font-size: 14px;
+            opacity: 0.6;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>EcoStabilizer</h1>
+    <p>O estabilizador de corrente inteligente que ajuda a reduzir desperdícios de energia e otimiza o desempenho dos teus aparelhos.</p>
+</header>
+
+<section>
+    <h2>Porque é que tantas casas desperdiçam energia?</h2>
+    <p>
+        Flutuações de tensão, picos elétricos e ruído na corrente podem fazer com que os aparelhos consumam mais energia do que o necessário.
+        O EcoStabilizer foi desenvolvido para ajudar a estabilizar o fluxo elétrico e melhorar a eficiência energética da tua casa.
+    </p>
+</section>
+
+<section>
+    <h2>Como funciona?</h2>
+    <div class="benefits">
+        <div class="card">
+            <h3>Estabilização de Tensão</h3>
+            <p>Ajuda a manter um fluxo elétrico mais estável, reduzindo oscilações que podem aumentar o consumo.</p>
+        </div>
+        <div class="card">
+            <h3>Filtragem de Ruído</h3>
+            <p>Contribui para reduzir interferências elétricas que afetam o desempenho dos aparelhos.</p>
+        </div>
+        <div class="card">
+            <h3>Proteção Contra Picos</h3>
+            <p>Ajuda a proteger os teus eletrodomésticos contra variações bruscas de energia.</p>
+        </div>
+    </div>
+</section>
+
+<section>
+    <h2>Instalação em 30 segundos</h2>
+    <p>
+        Basta ligar o EcoStabilizer a uma tomada próxima do quadro elétrico. Não requer ferramentas, técnicos ou alterações na instalação.
+    </p>
+</section>
+
+<section>
+    <h2>Opiniões de Clientes</h2>
+    <div class="reviews">
+        <div class="card">
+            <strong>Maria, Lisboa</strong>
+            <p>"Notei maior estabilidade nos meus aparelhos e menos oscilações de luz. Instalação super simples."</p>
+        </div>
+        <div class="card">
+            <strong>João, Porto</strong>
+            <p>"Comprei para proteger os eletrodomésticos. Até agora, excelente desempenho."</p>
+        </div>
+        <div class="card">
+            <strong>Sofia, Braga</strong>
+            <p>"Fácil de usar e dá mais confiança no sistema elétrico da casa."</p>
+        </div>
+    </div>
+</section>
+
+<section class="cta">
+    <h2>Promoção Especial</h2>
+    <p>Encomenda hoje e recebe 50% de desconto na segunda unidade.</p>
+    <button>Comprar Agora</button>
+</section>
+
+<footer>
+    © 2025 EcoStabilizer — Todos os direitos reservados.
+</footer>
+
+</body>
+</html>
