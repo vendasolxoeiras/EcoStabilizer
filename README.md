@@ -1,0 +1,1 @@
+O StabilizePro é um pequeno dispositivo do tamanho de um carregador. Uma vez ligado a uma tomada, começa a analisar e a regular a corrente eléctrica da tua casa. Ao reduzir a “electricidade suja”, estabilizar a tensão e filtrar picos de corrente, o PowerSaver pode ajudar a diminuir o consumo total de energia em até 90%.
